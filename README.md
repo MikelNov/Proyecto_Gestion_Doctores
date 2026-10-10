@@ -24,7 +24,7 @@ Git instalado (opcional, para clonar el repositorio).
 
 1.Clona el repositorio:
 
-git clone https://github.com/tu-usuario/registro-doctores.git
+git clone https://github.com/MikelNov/Proyecto_Gestion_Doctores.git
 
 2. Abre el proyecto en IntelliJ IDEA.
 
